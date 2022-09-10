@@ -1,0 +1,14 @@
+{
+  "name": "esp-server-backend",
+  "version": "1.0.0",
+  "description": "for collecting esp32 post and get request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham Deb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
